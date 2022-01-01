@@ -1,0 +1,40 @@
+body
+{
+    text-align: center;
+    background-color: lightseagreen;
+}
+
+h1 , h2
+{
+    color: darkred;
+}
+
+p
+{
+    color: gold;
+    font-size: xx-large;
+}
+
+img
+{
+    height: 250px;
+    width: 250px;
+}
+
+button
+{
+    height: fit-content;
+    width: fit-content;
+    color: blue;
+    background-color: transparent;
+    border-radius: 75px;
+    border-width: 0px;
+    font-size: xx-large;
+}
+
+hr
+{
+    color: black;
+    height: 5px;
+    background-color: black;
+}
